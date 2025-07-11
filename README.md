@@ -1,5 +1,3 @@
-# search-engine-proto
-
 # Internal Document Search - Prototype
 
 This repository contains a prototype for an internal document search engine.  
